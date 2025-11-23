@@ -2,7 +2,7 @@
 
 ![](pictures/logo.png)
 
-# DiIiS Project
+# D3RoS-SANCTUARY-GATE Project
 
 DiIiS is a fully-functional open-source local server for [Diablo III: Reaper of Souls](https://eu.diablo3.blizzard.com).
 
